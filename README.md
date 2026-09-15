@@ -1,28 +1,20 @@
 # Advanced Machine Learning
 
-Coursework, assignments, laboratory work, and project milestones for the **Advanced Machine Learning** course.
+This is my coursework repository for **Advanced Machine Learning** at Bennett University.
 
-## Course Information
+I’m using it to keep the assignments, lab submissions, and course project milestones in one place so the work is easy to follow and review.
 
-- **Program:** M.Tech Artificial Intelligence
-- **University:** Bennett University
-- **Student:** Kshitiz Reddy
-- **Registration No.:** A26MTAI0008
+**Kshitiz Reddy** · A26MTAI0008  
+M.Tech Artificial Intelligence · Bennett University
 
-## Repository Contents
+## What’s here
 
-| Section | Description |
-|---|---|
-| `Assignments/` | Course assignments and submissions |
-| `Labs/` | Laboratory exercises and submissions |
-| `Project/` | Course project milestones and documentation |
-
-## Assignments
+### Assignments
 
 - Assignment 1
 - Assignment 2
 
-## Labs
+### Labs
 
 - Lab 2
 - Lab 3
@@ -31,12 +23,38 @@ Coursework, assignments, laboratory work, and project milestones for the **Advan
 - Lab 6
 - Lab 7
 
-## Project
+### Project milestone
 
 - Milestone 1 — Project Proposal
 
-## Purpose
+The files are grouped into `Assignments/`, `Labs/`, and `Project/` to keep the course work straightforward to navigate.
 
-This repository maintains the academic work completed for the Advanced Machine Learning course, including assignments, laboratory submissions, and project milestones.
+## Repository structure
 
-> Major project implementation is maintained separately from this coursework repository.
+```text
+Advanced-Machine-Learning/
+├── Assignments/
+│   ├── Assignment-1/
+│   └── Assignment-2/
+├── Labs/
+│   ├── Lab-2/
+│   ├── Lab-3/
+│   ├── Lab-4/
+│   ├── Lab-5/
+│   ├── Lab-6/
+│   └── Lab-7/
+├── Project/
+│   └── Milestone-1/
+├── .gitignore
+└── README.md
+```
+
+## A note about the project
+
+The project folder here contains the **course milestone/proposal work**. The implementation of the separate major project is maintained in its own repository.
+
+## Author
+
+**Kshitiz Reddy**  
+M.Tech Artificial Intelligence  
+Bennett University
